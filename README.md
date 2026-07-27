@@ -282,7 +282,7 @@ Amazon & Flipkart
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/](https://leetcode.com/u/3iaRAXFrOZ/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
