@@ -191,11 +191,6 @@ Predicts customer purchase behaviour using machine learning with an interactive 
 ## AI & Cloud Technology Intern
 **IBM** • Jul 2025 – Aug 2025
 
-- Integrated AI models with cloud infrastructure.
-- Built deployment workflows.
-- Managed cloud storage solutions.
-- Worked with version control systems.
-
 **Skills**
 
 `AI` `Cloud` `Git` `Deployment`
@@ -204,11 +199,6 @@ Predicts customer purchase behaviour using machine learning with an interactive 
 
 ## AI & Machine Learning Intern
 **IBM** • Jun 2025 – Jul 2025
-
-- Developed end-to-end ML pipelines.
-- Feature Engineering
-- Model Training
-- Performance Evaluation
 
 **Skills**
 
@@ -221,28 +211,12 @@ Predicts customer purchase behaviour using machine learning with an interactive 
 ## Web Developer Intern
 **Tamizhan Skills**
 
-- Responsive Web Applications
-- Frontend Development
-- REST APIs
-- UI Development
-
 **Skills**
 
 `React`
 `JavaScript`
 `HTML`
 `CSS`
-
----
-
-## E-Commerce Store Manager
-
-Amazon & Flipkart
-
-- Product Listing
-- SEO Optimization
-- Sales Analytics
-- Inventory Management
 
 ---
 
@@ -324,7 +298,9 @@ Amazon & Flipkart
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kashif7230&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img width="100%"
+     src="https://github-profile-trophy.vercel.app/?username=kashif7230&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15"
+     alt="GitHub Trophies"/>
 
 </p>
 
