@@ -1,3 +1,9 @@
+# Terminal Profile Generator
+
+<p align="center">
+  <img src="./portrait.svg" alt="Animated terminal dot portrait" width="620" />
+</p>
+
 # <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=MOHD%20KASHIF&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=AI%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
@@ -102,87 +108,6 @@ I have hands-on experience developing intelligent systems, deploying ML models, 
 | NLP | ⭐⭐⭐⭐☆ | Text Analytics |
 | Deployment | ⭐⭐⭐⭐☆ | Streamlit, Flask |
 
----
-
-# Featured Projects
-
-<details>
-<summary><b>Quantum Solar Grid AI</b></summary>
-
-### Intelligent Energy Optimization Platform
-
-| Category | Details |
-|----------|----------|
-| Stack | Python, Qiskit, AI |
-| Scale | Smart Energy Grid |
-| Performance | Optimized Power Allocation |
-| Security | Secure Architecture |
-| Impact | Reduced simulated grid dependency |
-| Repository | https://github.com/kashif7230/quantum-solar-grid |
-
-A quantum-inspired intelligent energy optimization platform for real-time energy allocation and decision making.
-
-</details>
-
----
-
-<details>
-<summary><b>Mindful Companion</b></summary>
-
-### AI Mental Wellness Platform
-
-| Category | Details |
-|----------|----------|
-| Stack | React, Firebase, AI |
-| Scale | Web Platform |
-| Performance | Real-time Interaction |
-| Security | Firebase Authentication |
-| Impact | Mental Wellness Support |
-| Repository | https://github.com/kashif7230/MindfulCompanion |
-
-AI-powered web application focused on improving mental wellness through intelligent interaction and mood tracking.
-
-</details>
-
----
-
-<details>
-<summary><b>FraudGuard</b></summary>
-
-### Intelligent Fraud Detection System
-
-| Category | Details |
-|----------|----------|
-| Stack | Python, Scikit-learn, Flask |
-| Scale | Transaction Analysis |
-| Performance | 92% Detection Accuracy |
-| Security | Anomaly Detection |
-| Impact | Financial Fraud Prevention |
-| Repository | https://github.com/kashif7230/FruadGuard |
-
-Machine learning powered fraud detection system using Isolation Forest and graph analytics.
-
-</details>
-
----
-
-<details>
-<summary><b>E-Commerce Sales Prediction</b></summary>
-
-### Purchase Intent Prediction
-
-| Category | Details |
-|----------|----------|
-| Stack | Python, Streamlit, Scikit-learn |
-| Scale | Customer Analytics |
-| Performance | ML Prediction Pipeline |
-| Security | Data Validation |
-| Impact | Business Decision Support |
-| Repository | https://github.com/kashif7230/Ecommerce-sales-prediction |
-
-Predicts customer purchase behaviour using machine learning with an interactive Streamlit dashboard.
-
-</details>
 
 ---
 
@@ -271,36 +196,6 @@ Predicts customer purchase behaviour using machine learning with an interactive 
 <a href="https://www.codechef.com/">
 <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
 </a>
-
-</p>
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashif7230&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kashif7230&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashif7230&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img width="100%"
-     src="https://github-profile-trophy.vercel.app/?username=kashif7230&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15"
-     alt="GitHub Trophies"/>
 
 </p>
 
