@@ -1,48 +1,74 @@
-# Terminal Profile Generator
+<div align="center">
 
-<p align="center">
-  <img src="./portrait.svg" alt="Animated terminal dot portrait" width="620" />
-</p>
+<table>
+<tr>
 
-# <div align="center">
+<!-- LEFT SIDE: DETAILS -->
+<td width="55%" valign="middle">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=MOHD%20KASHIF&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=AI%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
+<h1>Hi, I'm Mohd Kashif 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Intelligent+Applications)](https://git.io/typing-svg)
+<h3>AI & Machine Learning Engineer</h3>
 
 <p>
-<img src="https://img.shields.io/badge/BSc_Computer_Science-Delhi_University-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%7C%20ML-Engineer-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering-4F46E5?style=for-the-badge"/>
+Software Engineer • Full Stack Developer
 </p>
 
 <p>
-<a href="https://maps.google.com/?q=Delhi,India">
-<img src="https://img.shields.io/badge/Delhi-India-181717?style=for-the-badge&logo=googlemaps"/>
-</a>
+🎓 <b>BSc Computer Science</b><br>
+🏫 Delhi University<br>
+📍 Delhi, India<br>
+💡 AI • Machine Learning • Full Stack • Cloud
+</p>
 
+<p>
+I build intelligent applications, machine learning systems,
+and scalable full-stack products that solve real-world problems.
+</p>
+
+<p>
 <a href="https://kashif7230.github.io/Portfolio-website/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=firefoxbrowser"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-39FF88?style=for-the-badge&labelColor=0D1117&logo=firefoxbrowser&logoColor=39FF88"/>
 </a>
 
-<a href="https://linkedin.com/in/mohd-kashif-9560md/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:kashu956023@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/kashif7230">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/mohd-kashif-9560md/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-39FF88?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=39FF88"/>
 </a>
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=kashif7230&style=for-the-badge&color=7C3AED"/>
-<img src="https://img.shields.io/github/followers/kashif7230?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/kashif7230?affiliations=OWNER&style=for-the-badge"/>
+<a href="https://github.com/kashif7230">
+<img src="https://img.shields.io/badge/GitHub-kashif7230-39FF88?style=flat-square&labelColor=0D1117&logo=github&logoColor=39FF88"/>
+</a>
+
+<a href="mailto:k8161541@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-39FF88?style=flat-square&labelColor=0D1117&logo=gmail&logoColor=39FF88"/>
+</a>
 </p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=kashif7230&style=flat-square&color=39FF88&label=PROFILE+VIEWS"/>
+</p>
+
+</td>
+
+<!-- RIGHT SIDE: SVG PORTRAIT -->
+<td width="45%" align="center" valign="middle">
+
+<img src="./portrait.svg" alt="Mohd Kashif" width="420"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=750&lines=%24+whoami;%3E+AI+%26+Machine+Learning+Engineer;%3E+Software+Engineer;%3E+Full+Stack+Developer;%3E+Building+Intelligent+Applications..." alt="Typing animation"/>
 
 </div>
 
